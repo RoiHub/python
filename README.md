@@ -1,4 +1,6 @@
-PYTHON MOUNTIN
+PYTHON MOUNTIN 
+
+простой набор кода, самый простой: https://habr.com/ru/post/346272/
 
 SQL - http://sql-tutorial.ru/ru/content.html
 
