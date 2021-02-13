@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Tasks1: https://www.dreamincode.net/forums/forum/29-python/
+## Таскс2: https://zen.yandex.ru/media/nuancesprog/10-idiomaticheskih-priemov-dlia-effektivnogo-programmirovaniia-na-python-5fea6e439801494ed8e68385
+### Tasks3; https://onecompiler.com/tutorials/python/collections/collections
 
 - Bulleted
 - List
